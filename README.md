@@ -1,2 +1,5 @@
-# Projeto_Instagram
-Projeto de Exercicio pratico em Recriar a Pagina Inicial do Instagram
+Recriando a Pagina Inicial do Instagram
+
+Exercicio pratico realizado no curso de Web Dev da DIO
+
+Feito por Antonio Favero
